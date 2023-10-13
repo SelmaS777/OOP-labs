@@ -236,7 +236,6 @@ public class Main{
             }
             counter++;
         }
-
     }
 
     public static int drawNumber(Random random){
