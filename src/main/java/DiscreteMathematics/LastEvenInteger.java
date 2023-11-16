@@ -28,3 +28,6 @@ public class LastEvenInteger {
         }
     }
 }
+
+
+//GIT LINK: https://github.com/SelmaS777/OOP-labs/blob/main/src/main/java/DiscreteMathematics/LastEvenInteger.java
