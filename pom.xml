@@ -19,5 +19,11 @@
             <artifactId>mysql-connector-j</artifactId>
             <version>8.0.33</version><![CDATA[
         ]]></dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 </project>
